@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Sharma</h1>
-<h3 align="center">🚀 Frontend Developer | Crafting Engaging Web Experiences</h3>
+<h3 align="center">🚀 Frontend Developer </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+JavaScript+%7C+UI%2FUX+Enthusiast;Clean+Code+%7C+Modern+Designs+%F0%9F%92%BB" alt="Typing SVG" />
